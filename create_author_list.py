@@ -51,7 +51,7 @@ affiliations = {
     'Robert Feldmann':'Zurich',
     'Michael Boylan-Kolchin':'UT Austin',
     'Christopher Hayward':'CCA',
-    'Alex Fitts':'CCA',
+    'Alex Fitts':'UT Austin',
     'Coral Wheeler':'Caltech',
     'Jenna Samuel':'UC Davis',
     r'Du{\v s}an Kere{\v s}':'UC San Diego',
